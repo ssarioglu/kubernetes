@@ -12,7 +12,7 @@ In this How-To Document we will deploy a sample wordpress app to Kubernetes with
     3. Configure & Deploy
 
 ## Install Helm
-Use the command `sudo snap install helm --classic` to install helm (tested on ubuntu)
+Use the command `sudo snap install helm --classic` to install helm (tested on ubuntu). Refer to https://docs.helm.sh/using_helm/#installing-helm for others.
 
 ## Create and Deploy Helm 
 Run the command to init helm 
